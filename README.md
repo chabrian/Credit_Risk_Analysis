@@ -62,6 +62,6 @@ This model has an accuracy of 91%, a precision of 4%, and a sensitivity of 68%.
 
 This model has an accuracy of 94%, a precision of 7%, and a sensitivity of 91%.
 
-## Summary Statistics on Suspension Coils
+## Summary on Credit Risk Analysis
 
 Based on the performance results of the models, the Easy Emsemble AdaBoost Classifier has the highest balanced accuracy, precision, and sensitivity. I would recommend using the Easy Emsemble AdaBoost Classifier model to predict the credit risk on the provided feature criteria. This model has the greatest accuracy and will correctly determine if the loan is high risk 91% of the time. Since we are more likely to value sensitivity over precision, this is the best model to use to capture as many high risk loans are possible for further evaluation. The Random Forest Classifier and SMOTEENN models are also worthwhile candidates, but will not provide results with nearly the same amount of confidence.
